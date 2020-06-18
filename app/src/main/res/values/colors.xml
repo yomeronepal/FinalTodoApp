@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#03DAC5</color>
+    <color name="colorPrimaryDark">#03DAC5</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="fab_background">#FFEB3B</color>
+    <color name="color_high_priority">#D089EA</color>
+    <color name="color_Medium_priority">#78F17D</color>
+    <color name="color_low_priority">#E69980</color>
+    <color name="start_gradient">#00D4CD</color>
+    <color name="end_gradient">#03D8D1</color>
+</resources>

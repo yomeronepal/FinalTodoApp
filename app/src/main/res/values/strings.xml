@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">FinalTodoApp</string>
+    <string name="splash_welcome">Welcome</string>
+    <string name="Login_login">Login ...</string>
+    <string name="login_username">UserName</string>
+    <string name="login_password">Password</string>
+    <string name="login_username_required">Username Required !!!</string>
+    <string name="login_password_required">Password Required !!!</string>
+    <string name="login_invalid_login">Invalid Username And Password !!!</string>
+    <string name="login_signin">Sign In</string>
+    <string name="login_cancel">Cancel</string>
+    <string name="login_GoogleSignIn">Google SignIn</string>
+    <string name="Quit_Application">Do you want to quit</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="edit_Title">Title</string>
+    <string name="edit_description">Description</string>
+    <string name="edit_date">Date</string>
+    <string name="edit_time">Time</string>
+    <string name="edit_priority">Priority</string>
+    <string name="edit_high">High</string>
+    <string name="edit_medium">Medium</string>
+    <string name="edit_low">Low</string>
+    <string name="edit_is_completed">Is Completed</string>
+    <string name="edit_save">Save</string>
+    <string name="edit_cancel_prompt">Do you want to return to main screen ?</string>
+    <string name="crud_save">Todo Saved</string>
+    <string name="crude_deletedbyid">Swapped item is deleted</string>
+    <string name="crud_deleteall">All item deleted</string>
+    <string name="edit_update">Update</string>
+    <string name="crud_update">Todo Updated</string>
+    <string name="splash_todo">TODO LIST</string>
+    <string name="splash_Welcome">Welcome To Todo</string>
+
+
+
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1072079232426",
+    "firebase_url": "https://finaltodoapp-6324b.firebaseio.com",
+    "project_id": "finaltodoapp-6324b",
+    "storage_bucket": "finaltodoapp-6324b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072079232426:android:e45e2ac7237b742d2e9fd3",
+        "android_client_info": {
+          "package_name": "com.example.finaltodoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072079232426-knd2l881e8fn6n31uqpbtkhb280h3bt0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.finaltodoapp",
+            "certificate_hash": "1979759e00bacc9f88ec7665dbe0a6535fc6a178"
+          }
+        },
+        {
+          "client_id": "1072079232426-gb2auorrc6rl6eqp1q591390gsn7hs92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC20Rj6mRp8DJo6Wy_Q9DQvB6_JcHCW6Sg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072079232426-gb2auorrc6rl6eqp1q591390gsn7hs92.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
